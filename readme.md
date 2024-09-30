@@ -1,4 +1,4 @@
-[# Projet 2 : Modélisation des Résultats des Réclamations d'Assurance Automobile](Analyse et Modélisation des Réclamations d'Assurance Automobile.ipynb)
+[# Projet 2 : Modélisation des Résultats des Réclamations d'Assurance Automobile](https://github.com/y-sm-s/Analyse-et-Mode-lisation-des-Re-clamations-d-Assurance-Automobile/blob/main/Analyse%20et%20Mode%CC%81lisation%20des%20Re%CC%81clamations%20d'Assurance%20Automobile.ipynb)
 
 ## Description  
 Ce projet utilise l'apprentissage automatique pour prédire si un client de l'assurance automobile fera une réclamation pendant la période de validité de sa police. Travaillant pour On the Road car insurance, l'objectif est d'identifier la caractéristique du jeu de données qui produit le modèle de régression logistique le plus précis pour prédire si une réclamation sera faite contre une police.
